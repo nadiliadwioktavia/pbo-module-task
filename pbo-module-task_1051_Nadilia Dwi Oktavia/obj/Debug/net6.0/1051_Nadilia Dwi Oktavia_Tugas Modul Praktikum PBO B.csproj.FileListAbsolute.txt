@@ -1,0 +1,14 @@
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.exe
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.deps.json
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.runtimeconfig.json
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.dll
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.pdb
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.AssemblyInfoInputs.cache
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.AssemblyInfo.cs
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.csproj.CoreCompileInputs.cache
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.dll
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\refint\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.dll
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.pdb
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.genruntimeconfig.cache
+D:\PBO\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B\obj\Debug\net6.0\ref\1051_Nadilia Dwi Oktavia_Tugas Modul Praktikum PBO B.dll
